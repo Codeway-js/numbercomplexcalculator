@@ -1,6 +1,6 @@
 # numbercomplexecalculator
 ## description
-it is a calculator for complexe numcer
+it is a calculator for complexe number
 ## documentation
 for create a complexe number use
 ```js

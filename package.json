@@ -1,6 +1,6 @@
 {
   "name": "numbercomplexecalculator",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "a calculator for number complexe",
   "main": "index.js",
   "scripts": {
